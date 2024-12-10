@@ -1,0 +1,47 @@
+A2SN
+X. Tao, M. E. Paoletti, Z. Wu, J. M. Haut, P. Ren, and A. Plaza, “An Abundance-Guided Attention Network for Hyperspectral Unmixing,” IEEE Trans. Geosci. Remote Sensing, vol. 62, pp. 1–14, 2024, doi: 10.1109/TGRS.2024.3353259.
+
+AAeNet
+Q. Jin, Y. Ma, F. Fan, J. Huang, X. Mei, and J. Ma, “Adversarial Autoencoder Network for Hyperspectral Unmixing,” IEEE Trans. Neural Netw. Learning Syst., pp. 1–15, 2021, doi: 10.1109/TNNLS.2021.3114203.
+
+CyCUNet
+L. Gao, Z. Han, D. Hong, B. Zhang, and J. Chanussot, “CyCU-Net: Cycle-Consistency Unmixing Network by Learning Cascaded Autoencoders,” IEEE Trans. Geosci. Remote Sens., vol. 60, pp. 1–14, 2022, doi: 10.1109/TGRS.2021.3064958.
+
+DAEN
+Y. Su, J. Li, A. Plaza, A. Marinoni, P. Gamba, and S. Chakravortty, “DAEN: Deep Autoencoder Networks for Hyperspectral Unmixing,” IEEE Trans. Geosci. Remote Sens., vol. 57, no. 7, pp. 4309–4321, Jul. 2019, doi: 10.1109/TGRS.2018.2890633.
+
+MiSiCNet
+B. Rasti, B. Koirala, P. Scheunders, and J. Chanussot, “MiSiCNet: Minimum Simplex Convolutional Network for Deep Hyperspectral Unmixing,” IEEE Trans. Geosci. Remote Sensing, vol. 60, pp. 1–15, 2022, doi: 10.1109/TGRS.2022.3146904.
+
+MuCAEU
+Y. Yu, Y. Ma, X. Mei, F. Fan, J. Huang, and H. Li, “Multi-Stage Convolutional Autoencoder Network for Hyperspectral Unmixing,” Int. J. Appl. Earth Obs. Geoinf., vol. 113, p. 102981, Sep. 2022, doi: 10.1016/j.jag.2022.102981.
+
+NLAEU
+M. Wang, M. Zhao, J. Chen, and S. Rahardja, “Nonlinear Unmixing of Hyperspectral Data via Deep Autoencoder Networks,” IEEE Geosci. Remote Sens. Lett., vol. 16, no. 9, pp. 1467–1471, Sep. 2019, doi: 10.1109/LGRS.2019.2900733.
+
+PGMSU
+S. Shi, M. Zhao, L. Zhang, Y. Altmann, and J. Chen, “Probabilistic Generative Model for Hyperspectral Unmixing Accounting for Endmember Variability,” IEEE Trans. Geosci. Remote Sens., vol. 60, pp. 1–15, 2022, doi: 10.1109/TGRS.2021.3121799.
+
+TAEU
+P. Ghosh, S. K. Roy, B. Koirala, B. Rasti, and P. Scheunders, “Deep Hyperspectral Unmixing using Transformer Network,” IEEE Trans. Geosci. Remote Sens., vol. 60, pp. 1–16, 2022, doi: 10.1109/TGRS.2022.3196057.
+
+CNNAEU
+B. Palsson, M. O. Ulfarsson, and J. R. Sveinsson, “Convolutional Autoencoder for Spectral–Spatial Hyperspectral Unmixing,” IEEE Trans. Geosci. Remote Sens., vol. 59, no. 1, pp. 535–549, Jan. 2021, doi: 10.1109/TGRS.2020.2992743.
+
+DAEU
+B. Palsson, J. Sigurdsson, J. R. Sveinsson, and M. O. Ulfarsson, “Hyperspectral Unmixing Using a Neural Network Autoencoder,” IEEE Access, vol. 6, pp. 25646–25656, 2018, doi: 10.1109/ACCESS.2018.2818280.
+
+OSPAEU
+Z. Dou, K. Gao, X. Zhang, H. Wang, and J. Wang, “Hyperspectral Unmixing Using Orthogonal Sparse Prior-Based Autoencoder With Hyper-Laplacian Loss and Data-Driven Outlier Detection,” IEEE Trans. Geosci. Remote Sens., vol. 58, no. 9, pp. 6550–6564, Sep. 2020, doi: 10.1109/TGRS.2020.2977819.
+
+mDAU
+R. Guo, W. Wang, and H. Qi, “Hyperspectral Image Unmixing Using Autoencoder Cascade,” in 2015 7th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), Tokyo, Japan: IEEE, Jun. 2015, pp. 1–4. doi: 10.1109/WHISPERS.2015.8075378.
+
+USTNet
+Z. Yang, M. Xu, S. Liu, H. Sheng, and J. Wan, “UST-Net: A U-Shaped Transformer Network Using Shifted Windows for Hyperspectral Unmixing,” IEEE Trans. Geosci. Remote Sensing, vol. 61, pp. 1–15, 2023, doi: 10.1109/TGRS.2023.3321839.
+
+MsCM-Net
+M. Xu, J. Xu, S. Liu, H. Sheng, and Z. Yang, “Multiscale Convolutional Mask Network for Hyperspectral Unmixing,” IEEE J. Sel. Top. Appl. Earth Observations Remote Sensing, vol. 17, pp. 3687–3700, 2024, doi: 10.1109/JSTARS.2024.3352080.
+
+TSUCAE
+J. Xu, M. Xu, S. Liu, H. Sheng, and Z. Yang, “Temperature scaling unmixing framework based on convolutional autoencoder,” International Journal of Applied Earth Observation and Geoinformation, vol. 129, p. 103864, May 2024, doi: 10.1016/j.jag.2024.103864.
