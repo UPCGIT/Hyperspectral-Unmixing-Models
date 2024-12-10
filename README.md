@@ -7,6 +7,11 @@
 
 在此，也非常欢迎各位和我一起探讨高光谱方向内的相关知识！ 邮箱请联系：s23160009@s.upc.edu.cn！🤝
 
-目前已收录 17 个模型，模型与其文章对应关系可见 Model Description. 🥳
+目前已收录 17 个模型（含3项本人工作），模型与其文章对应关系可见 Model Description，对应论文已放入各自文件夹内. 🥳
+
+# 本人工作另附如下：
+https://github.com/UPCGIT/MsCM-Net
+https://github.com/UPCGIT/TSUCAE
+https://github.com/UPCGIT/SWC-Net
 
 " Star " 是对工作的肯定与支持！💕
