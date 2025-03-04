@@ -1,1 +1,1 @@
-部分代码中出现的muffle数据是IEEE_TGRS_MUNet-main中的数据，包含高光谱和DSM数据
+部分代码中出现的muffle数据是IEEE_TGRS_MUNet-main中的数据，包含高光谱和DSM数据。DC数据由于大小限制，放在了首页右侧的Relases中
