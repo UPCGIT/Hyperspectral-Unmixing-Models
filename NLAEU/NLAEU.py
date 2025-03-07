@@ -48,7 +48,7 @@ if not os.path.exists(endmember_folder):
     os.makedirs(endmember_folder)
 if not os.path.exists(abundance_folder):
     os.makedirs(abundance_folder)
-blocks = sio.loadmat(r'D:\毕设\code\MsCM-Net(10.23)\blocks_samson.mat')['samson']
+
 # ---------------------------------------------------------------------------
 for run in range(1, num_runs + 1):
     print('Start training!', 'run:', run)
