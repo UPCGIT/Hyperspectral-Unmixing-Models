@@ -9,7 +9,7 @@
 
 目前已收录 21 个模型（含4项课题组工作），模型与其文章对应关系可见 Model Description，对应论文已放入各自文件夹内. 🥳
 
-# 课题组工作另附如下：
+# 课题组工作另附如下，欢迎引用：
 MsCM-Net:https://github.com/UPCGIT/MsCM-Net  
 TSUCAE:https://github.com/UPCGIT/TSUCAE  
 SWC-Net:https://github.com/UPCGIT/SWC-Net  
