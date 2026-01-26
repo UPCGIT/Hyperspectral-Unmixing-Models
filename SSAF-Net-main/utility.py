@@ -63,8 +63,8 @@ def load_HSI(path):
 def FCLSU(M, Y, sigma=1):
     P = M.shape[1]
     N = Y.shape[1]
-    M = sp.vstack((sigma * M, sp.ones((1, P)) ))
-    Y = sp.vstack((sigma * Y, sp.ones((1, N)) ))
+    M = np.vstack((sigma * M, np.ones((1, P)) ))
+    Y = np.vstack((sigma * Y, np.ones((1, N)) ))
     A_hat = np.zeros((P, N))
 
     for i in np.arange(N):
@@ -348,4 +348,5 @@ def SAD(y_true, y_pred):
     y_pred2 = torch.nn.functional.normalize(y_pred, dim=1)
     A = torch.mean(y_true2 * y_pred2)
     sad = torch.acos(A)
+
     return sad
